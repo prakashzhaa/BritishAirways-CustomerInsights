@@ -10,4 +10,6 @@ A data Analytics for British Airways, focusing on scraping and analyzing custome
 # Tools and Techonologies Uses:
   * Google cloud Platform
   * kaagle notebook/ jupyter notebook
+  * Programming Languages :- Python3
+  * Python Libraries Used: numpy, pandas, matplolib, sklearn 
 
